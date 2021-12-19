@@ -260,6 +260,11 @@ export default {
           {
             label: "universal",
             options: [
+               {
+                label: "自用",
+                value:
+                  "https://raw.githubusercontent.com/spike2044/now-subconverter/master/myRule/config.ini"
+              },
               {
                 label: "No-Urltest",
                 value:
